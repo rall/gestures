@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/rall/gestures/issues"
   },
-  "homepage": "https://github.com/rall/gestures#readme"
+  "homepage": "https://github.com/rall/gestures#readme",
+  "dependencies": {
+    "rxjs": "^6.5.2"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
 }
