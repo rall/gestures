@@ -1,0 +1,24 @@
+{
+  "name": "@rallrx/gestures",
+  "version": "1.0.0",
+  "description": "RxJS gesture streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rall/gestures.git"
+  },
+  "keywords": [
+    "RxJS",
+    "Swipe",
+    "Gesture"
+  ],
+  "author": "Richard Allaway",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rall/gestures/issues"
+  },
+  "homepage": "https://github.com/rall/gestures#readme"
+}
