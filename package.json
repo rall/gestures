@@ -1,5 +1,5 @@
 {
-  "name": "@rallrx/gestures",
+  "name": "@richardallaway/gestures",
   "version": "0.0.1",
   "description": "RxJS gesture streams",
   "main": "index.js",
