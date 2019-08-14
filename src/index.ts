@@ -1,1 +1,1 @@
-export * from './src/gesture';
+export * from './gesture';
