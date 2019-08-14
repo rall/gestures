@@ -1,7 +1,7 @@
 import { Observable, timer, fromEvent } from 'rxjs';
 import { exhaustMap, takeUntil, pluck, pairwise, filter, map, mergeMap, reduce, share, throttleTime } from 'rxjs/operators';
 
-export class Swipe {
+export class Gesture {
     private swipeZone: number;
     readonly swipeTime = 500;
     
